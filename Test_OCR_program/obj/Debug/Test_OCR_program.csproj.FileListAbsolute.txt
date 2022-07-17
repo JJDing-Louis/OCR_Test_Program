@@ -1,0 +1,13 @@
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\bin\Debug\Test_OCR_program.exe.config
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\bin\Debug\Test_OCR_program.exe
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\bin\Debug\Test_OCR_program.pdb
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\obj\Debug\Test_OCR_program.csproj.AssemblyReference.cache
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\obj\Debug\Test_OCR_program.Main.resources
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\obj\Debug\Test_OCR_program.Properties.Resources.resources
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\obj\Debug\Test_OCR_program.csproj.GenerateResource.cache
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\obj\Debug\Test_OCR_program.csproj.CoreCompileInputs.cache
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\obj\Debug\Test_OCR_program.csproj.CopyComplete
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\obj\Debug\Test_OCR_program.exe
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\obj\Debug\Test_OCR_program.pdb
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\bin\Debug\halcondotnetxl.dll
+D:\Personal-Work-Space\C# Project\Test_OCR_program\Test_OCR_program\bin\Debug\halcondotnetxl.xml
